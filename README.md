@@ -1,9 +1,10 @@
-# fintech
+# Fintech
+## Alis Work
+- Visual studio
+    - assignment work
+    - math work
+    - are you ready
+!(pyhton)[https://cdn.arstechnica.net/wp-content/uploads/2019/10/GettyImages-977644614-800x869.jpg]
 
-# samplefintech
-hello guys this a test
-hello
-# fintech
-## shopify
-very effective
-![shpify](https://cdn.shopify.com/shopify-marketing_assets/static/shopify-favicon.png)
+
+
