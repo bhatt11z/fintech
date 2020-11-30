@@ -4,7 +4,11 @@
     - assignment work
     - math work
     - are you ready
-!(pyhton)[https://cdn.arstechnica.net/wp-content/uploads/2019/10/GettyImages-977644614-800x869.jpg]
+
+![python](https://cdn.arstechnica.net/wp-content/uploads/2019/10/GettyImages-977644614-800x869.jpg)
+
+
+
 
 
 
